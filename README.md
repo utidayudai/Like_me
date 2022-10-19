@@ -38,8 +38,8 @@
 ## Association
 
 - belongs_to :user
-- has_one :records
-- has_one :carts
+- has_one :record
+- has_one :cart
 - has_one :admin_user
 
 ## ordersテーブル
